@@ -1,4 +1,4 @@
-# Bouchée — pages de test
+# Svelte — pages de test
 
 - `index.html` — test des icônes (avec questionnaire)
 - `app.html` — prototype de l'application
